@@ -1,0 +1,28 @@
+{
+  "PyTorch": {
+    "backend": "PyTorch",
+    "model_path": "d:\\新建文件夹\\工业缺陷检测\\outputs\\weights\\best.pt",
+    "num_images": 100,
+    "fps": 122.9,
+    "latency_mean_ms": 8.137,
+    "latency_std_ms": 1.212,
+    "latency_p50_ms": 7.963,
+    "latency_p95_ms": 8.855,
+    "latency_min_ms": 7.009,
+    "latency_max_ms": 19.231,
+    "avg_detections": 1.1
+  },
+  "ONNX": {
+    "backend": "ONNX",
+    "model_path": "d:\\新建文件夹\\工业缺陷检测\\outputs\\weights\\best.onnx",
+    "num_images": 100,
+    "fps": 102.17,
+    "latency_mean_ms": 9.787,
+    "latency_std_ms": 0.659,
+    "latency_p50_ms": 9.617,
+    "latency_p95_ms": 10.702,
+    "latency_min_ms": 8.978,
+    "latency_max_ms": 13.394,
+    "avg_detections": 300.0
+  }
+}

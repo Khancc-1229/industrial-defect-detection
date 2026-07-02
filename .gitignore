@@ -1,0 +1,17 @@
+# 数据集 — 太大, 不上传
+steel.coco/
+data/NEU-DET/
+data/yolo_dataset/
+
+# 模型权重 — 太大
+outputs/weights/
+outputs/results/train/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# IDE
+.vscode/
+.idea/
